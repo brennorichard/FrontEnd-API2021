@@ -1,6 +1,8 @@
 
 <p align="center">
-    <img scr="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/neduc.png">
+    <a href="gttps://github.com">
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/neduc.png"/>
+    </a>
 </p>
 
 <p align="center">
