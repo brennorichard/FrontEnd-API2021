@@ -1,6 +1,6 @@
 
 <p align="center">
-![neduc](https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/neduc.png)
+    <img scr="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/neduc.png">
 </p>
 
 <p align="center">
