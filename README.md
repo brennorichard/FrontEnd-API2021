@@ -1,6 +1,6 @@
 
 
-![neduc]("https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/neduc.png")
+![neduc](https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/neduc.png)
 
 <p align="center">
     <a href="gttps://github.com">
