@@ -23,10 +23,10 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
 </p>
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&logo=appveyor">
 </p>
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/Sprint%20atual-Sprint%203-blue?style=for-the-badge&logo=appveyor">
 </p>
 
