@@ -174,3 +174,24 @@ body, html {
     max-height: 20px;
   }
 
+   body {
+    font-family: Helvetica;
+  }
+    input[type="file"] {
+    display:inline-flex;
+    
+    }
+
+    label{
+    padding: 20px 10px;
+    width: 175px;
+    border-radius: 30px;
+    background-color: rgb(5, 27, 150);
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    }
+
+
